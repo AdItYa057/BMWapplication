@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19472" started-at="2020-03-12T07:53:59Z" finished-at="2020-03-12T07:54:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19472" started-at="2020-03-12T07:53:59Z" finished-at="2020-03-12T07:54:19Z">
+      <class name="com.cts.test.BMWTest">
+        <test-method status="PASS" signature="initialization(java.lang.String)[pri:0, instance:com.cts.test.BMWTest@212bf671]" name="initialization" is-config="true" duration-ms="7815" started-at="2020-03-12T07:53:59Z" finished-at="2020-03-12T07:54:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="dreamCar()[pri:0, instance:com.cts.test.BMWTest@212bf671]" name="dreamCar" duration-ms="10876" started-at="2020-03-12T07:54:07Z" finished-at="2020-03-12T07:54:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dreamCar -->
+        <test-method status="PASS" signature="termination()[pri:0, instance:com.cts.test.BMWTest@212bf671]" name="termination" is-config="true" duration-ms="749" started-at="2020-03-12T07:54:18Z" finished-at="2020-03-12T07:54:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- termination -->
+      </class> <!-- com.cts.test.BMWTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
